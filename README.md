@@ -1,4 +1,5 @@
-# qbPornolab
-qBittorrent Pornolab.net plugin 
+#bPornolab
+wtyczka qBittorrent Pornolab.net
 
-Edit pornolab.py by replacing YOUR_USERNAME_HERE and YOUR_PASSWORD_HERE with your Pornolab username and password.
+Edytuj pornolab.py, zastępując nazwę użytkownika i hasło Pornolab.
+Nazwa użytkownika i hasło. 
